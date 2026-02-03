@@ -8,7 +8,7 @@ JavaScript.
 O Node.js roda fora do navegador
 
 **4.** Para que serve o Node.js?
-principalmente para executar código JavaScript no lado do servidor (back-end), permitindo o desenvolvimento de aplicações web rápidas, escaláveis e em tempo real
+para executar código JavaScript no lado do servidor (back-end), permitindo o desenvolvimento de aplicações web rápidas, escaláveis e em tempo real
 
 **5.** Qual comando é usado para executar um arquivo Node.js no terminal?
 O comando principal para executar um arquivo Node.js no terminal é node <nome_do_arquivo.js>.
